@@ -1,6 +1,5 @@
 package ccn.elkadiri.jwtimplementation.controller;
 
-
 import ccn.elkadiri.jwtimplementation.model.AuthRequest;
 import ccn.elkadiri.jwtimplementation.model.AuthResponse;
 import ccn.elkadiri.jwtimplementation.service.JwtService;
